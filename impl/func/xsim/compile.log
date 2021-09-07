@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/nel-araby/TwiddleMul/TwiddleMul.sim/sim_1/impl/func/xsim/TB_TwiddleX_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder_exact'
+INFO: [VRFC 10-3107] analyzing entity 'mult_exact'
+INFO: [VRFC 10-3107] analyzing entity 'mult_exact_0'
+INFO: [VRFC 10-3107] analyzing entity 'mult_exact_1'
+INFO: [VRFC 10-3107] analyzing entity 'mult_exact_2'
+INFO: [VRFC 10-3107] analyzing entity 'sub_exact'
+INFO: [VRFC 10-3107] analyzing entity 'TwiddleX'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/nel-araby/TwiddleMul/TwiddleMul.srcs/sim_1/new/TB_TwiddleX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_TwiddleX'
